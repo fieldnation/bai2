@@ -1,0 +1,30 @@
+{
+  "name": "bai2",
+  "version": "0.1.0",
+  "description": "Parse BAI files for performing electronic cash management balance reporting",
+  "main": "bai2.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fieldnation/bai2.git"
+  },
+  "keywords": [
+    "BAI",
+    "balance",
+    "reporting"
+  ],
+  "author": "Field Nation <platform@fieldnation.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/fieldnation/bai2/issues"
+  },
+  "homepage": "https://github.com/fieldnation/bai2#readme",
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "tslint": "^5.16.0",
+    "typescript": "^3.4.5"
+  }
+}
